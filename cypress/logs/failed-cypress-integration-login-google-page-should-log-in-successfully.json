@@ -1,0 +1,8 @@
+{
+  "specName": "cypress\\integration\\login.cy.js",
+  "title": "should log in successfully",
+  "suiteName": "Google Page",
+  "testName": "Google Page should log in successfully",
+  "testError": "Cannot read properties of undefined (reading 'charArray')",
+  "testCommands": []
+}

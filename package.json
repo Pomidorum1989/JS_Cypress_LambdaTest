@@ -1,0 +1,17 @@
+{
+  "name": "js_cypress_lambdatest",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "devDependencies": {
+    "cypress": "^13.13.0",
+    "cypress-failed-log": "^2.10.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
