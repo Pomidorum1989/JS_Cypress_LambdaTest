@@ -1,0 +1,34 @@
+[
+  {
+    "tag": "tag1",
+    "color": "red"
+  },
+  {
+    "tag": "tag2",
+    "color": "orange"
+  },
+  {
+    "tag": "tag3",
+    "color": "yellow"
+  },
+  {
+    "tag": "tag4",
+    "color": "green"
+  },
+  {
+    "tag": "tag5",
+    "color": "blue"
+  },
+  {
+    "tag": "tag6",
+    "color": "navy blue"
+  },
+  {
+    "tag": "tag7",
+    "color": "purple"
+  },
+  {
+    "tag": "tag8",
+    "color": "white"
+  }
+]
