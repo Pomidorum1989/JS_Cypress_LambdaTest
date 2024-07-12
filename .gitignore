@@ -4,3 +4,4 @@ cypress/logs
 package-lock.json
 cypress/.DS_Store
 .DS_Store
+js-cypress-lambda-test.code-workspace
