@@ -1,10 +1,12 @@
-const { defineConfig } = require("cypress");
+import { defineConfig } from "cypress";
 
-module.exports = defineConfig({
+export default defineConfig({
   viewportWidth: 1280,
   viewportHeight: 720,
   defaultCommandTimeout: 5000,
-  screenshotsFolder: "cypress/screenshots",
+  screenshotsFolder: "screenshots",
+  fileServerFolder: "logs",
+  retries: 1,
   e2e: {
     baseUrl: "https://qaplayground.dev/",
     setupNodeEvents(on, config) {
